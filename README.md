@@ -39,6 +39,13 @@ $ streamlit run echo_agent.py
 $ http://localhost:8501
 ```
 
+## 🖼️ Expected Output
+
+  Below is an example of how the Echo Agent looks when running in your browser (localhost):
+
+  
+  ![Echo Agent Expected Output](assets/expected_output.png)
+  
 
 
 
