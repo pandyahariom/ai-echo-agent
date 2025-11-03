@@ -16,7 +16,7 @@ This is a foundational example for building interactive AI or chatbot-like syste
 
 ### 1. Clone the Repository
 ```
-$ git clone https://github.com/pandyahariom/ai-chatbot.git
+$ git clone https://github.com/pandyahariom/ai-echo-agent.git
 ```
 
 ### 2.Set Up the Virtual Environment
